@@ -1,2 +1,5 @@
 data/
 env/
+all-dogs/
+Annotation/
+__pycache__/
